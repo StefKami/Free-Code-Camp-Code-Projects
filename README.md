@@ -8,8 +8,8 @@
 	
 2. Intermediate Algorithm Scripting
 	
-	2.1  <a href="Free-Code-Camp-Code-Projects/Intermediate/01_sum_range.js">Sum Range</a>
+	2.1 <a target="_blank" href="Intermediate/01_sum_range.js">Sum Range</a>
 	
-	2.2 <a href="Free-Code-Camp-Code-Projects/Intermediate/02_diff_array.js">Diff Array</a>
+	2.2 <a target="_blank" href="Intermediate/02_diff_array.js">Diff Array</a>
 
 3. Advanced Algorithm Scripting
