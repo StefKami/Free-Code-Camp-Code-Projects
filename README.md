@@ -12,4 +12,6 @@
 	
 	2.2 <a target="_blank" href="Intermediate/02_diff_array.js">Diff Array</a>
 
-3. Advanced Algorithm Scripting
+3. <a href="Advanced">Advanced Algorithm Scripting</a>
+
+	3.2 <a href="Advanced/02_symmetric_difference.js">Symmetric Difference</a>
