@@ -2,9 +2,9 @@
 
 1. Basic Algorithm Scripting
 
-	1.1. Reverse a String
+	1.1. <a href="Basic/01_reverse.js">Reverse a String</a>
 	
-	1.2. Factorialize a Number
+	1.2. <a href="Basic/02_factorial.js">Factorialize a Number</a>
 	
 2. Intermediate Algorithm Scripting
 	
