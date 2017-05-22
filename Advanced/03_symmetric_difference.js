@@ -1,5 +1,3 @@
-// YouTube: https://youtu.be/v04Bmbfa4Jk
-
 // Our main function that reduces the sub arrays into a single array
 function sym(args) {
   args = Array.prototype.slice.call(arguments);
