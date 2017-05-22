@@ -14,4 +14,6 @@
 
 3. <a href="Advanced">Advanced Algorithm Scripting</a>
 
+	3.1 <a href="Advanced/01_validate_us_numbers.js">Validate US Numbers</a>
+
 	3.2 <a href="Advanced/02_symmetric_difference.js">Symmetric Difference</a>
