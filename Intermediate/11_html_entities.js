@@ -1,5 +1,3 @@
-// YouTube: https://youtu.be/p0SN049ikj8
-
 function convertHTML(str) {
 
   var entities = {
@@ -10,7 +8,7 @@ function convertHTML(str) {
     '\'': '&apos;'
   };
 
-  return str.split('').map(function(char) {
+  return str.split('').map(function (char) {
     return entities[char] || char;
   }).join('');
 

@@ -1,8 +1,6 @@
-// YouTube: https://youtu.be/Rg-0XRgsFlI
-
 function translatePigLatin(str) {
   var vowels = ['a', 'e', 'i', 'o', 'u'],
-      result = str.split('');
+    result = str.split('');
 
   if (vowels.includes(str.charAt(0))) {
     return str += 'way';

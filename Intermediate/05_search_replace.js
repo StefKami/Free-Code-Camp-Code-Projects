@@ -1,5 +1,3 @@
-// YouTube: https://youtu.be/4Zx0OFWVj-w
-
 function myReplace(str, before, after) {
   if (before.charAt(0) === before.charAt(0).toUpperCase()) {
     after = after.charAt(0).toUpperCase() + after.slice(1);

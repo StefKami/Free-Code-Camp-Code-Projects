@@ -1,5 +1,3 @@
-// YouTube: https://youtu.be/dlwEs4xcloY
-
 function sumAll(arr) {
   var min = Math.min(arr[0], arr[1]);
   var max = Math.max(arr[0], arr[1]);
@@ -10,7 +8,7 @@ function sumAll(arr) {
     range.push(i);
   }
 
-  return range.reduce(function(a, b) {
+  return range.reduce(function (a, b) {
     return a + b;
   });
 }

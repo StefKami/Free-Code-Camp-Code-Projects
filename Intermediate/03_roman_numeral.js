@@ -1,5 +1,3 @@
-// YouTube: https://youtu.be/OHIeCYZWVuQ
-
 function convertToRoman(num) {
 
   var romans = {

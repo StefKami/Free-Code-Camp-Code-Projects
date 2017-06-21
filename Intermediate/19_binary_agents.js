@@ -1,7 +1,5 @@
-// YouTube: https://youtu.be/ghLTDAvLs_w
-
 function binaryAgent(str) {
-  return str.split(' ').map(function(value) {
+  return str.split(' ').map(function (value) {
     return String.fromCharCode(parseInt(value, 2));
   }).join('');
 }
